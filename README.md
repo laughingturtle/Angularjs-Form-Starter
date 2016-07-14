@@ -1,3 +1,3 @@
 # Angularjs Form Starter
 
-This is just a basic form starter in angularjs with validation and password matching.
+This is just a simple, basic form starter in angularjs with validation and password matching.
